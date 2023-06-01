@@ -14,3 +14,4 @@ deliverable 1: design a model
 deliverable 2: create a schema and implement a database using DB2, populate database with data, maintain, query and
 update data  
 deliverable 3: develop application programs, and implement a user-friendly interface. 
+![Screenshot 2023-05-31 at 11 40 36 PM](https://github.com/tzhang71shawn/COMP421W22/assets/102628033/ab8137bb-fce1-4737-8300-c635e0de1a81)
